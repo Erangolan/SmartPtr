@@ -1,5 +1,4 @@
-//Eran Golan 312492903
-//Liran Michaelov 204238174
+//Eran Golan 
 #include "college.h"
 #include "department.h"
 #include "course.h"
