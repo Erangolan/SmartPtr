@@ -1,5 +1,4 @@
-//Eran Golan 312492903
-//Liran Michaelov 204238174
+//Eran Golan 
 #ifndef DEPARTMENT_H
 #define DEPARTMENT_H
 #include <stdio.h>
