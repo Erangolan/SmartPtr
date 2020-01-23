@@ -1,5 +1,4 @@
-//Eran Golan 312492903
-//Liran Michaelov 204238174
+//Eran Golan 
 #ifndef COURSE_H
 #define COURSE_H
 #include "student.h"
