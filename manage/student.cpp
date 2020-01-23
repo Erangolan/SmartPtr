@@ -1,5 +1,5 @@
-//Eran Golan 312492903
-//Liran Michaelov 204238174
+//Eran Golan 
+
 #include "student.h"
 
 student::student(const char* firstName, const char* lastName, const char* id,
