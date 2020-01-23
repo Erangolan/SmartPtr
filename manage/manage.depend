@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1526843186 source:c:\users\user-a1\desktop\softeare design\manage\main.cpp
+	<iostream>
+	<fstream>
+	"college.h"
+	"department.h"
+	"course.h"
+	"student.h"
+	"smartptr.h"
+
+1526843187 source:c:\users\user-a1\desktop\softeare design\manage\college.cpp
+	"college.h"
+	"department.h"
+	"course.h"
+	<string.h>
+	<iostream>
+	<iterator>
+	<fstream>
+	<list>
+	"smartptr.h"
+
+1526843187 c:\users\user-a1\desktop\softeare design\manage\college.h
+	<iostream>
+	<fstream>
+	<stdio.h>
+	"department.h"
+	"course.h"
+	"student.h"
+	"smartptr.h"
+	<list>
+
+1526843187 source:c:\users\user-a1\desktop\softeare design\manage\course.cpp
+	"course.h"
+	<string>
+
+1526843187 c:\users\user-a1\desktop\softeare design\manage\course.h
+	"student.h"
+	"smartptr.h"
+	<stdio.h>
+	<iostream>
+	<list>
+
+1526843187 source:c:\users\user-a1\desktop\softeare design\manage\department.cpp
+	"department.h"
+	<string>
+
+1526843187 c:\users\user-a1\desktop\softeare design\manage\department.h
+	<stdio.h>
+	<iostream>
+	<list>
+	<iterator>
+	"course.h"
+	"smartptr.h"
+
+1526033814 c:\users\user-a1\desktop\softeare design\manage\studentcycle.h
+	<iostream>
+	"college.h"
+	"department.h"
+	"course.h"
+	"student.h"
+	"smartptr.h"
+	<list>
+	<memory>
+
+1530047295 c:\users\user-a1\desktop\softeare design\manage\student.h
+	<iostream>
+	<string>
+	<list>
+
+1526843187 c:\users\user-a1\desktop\softeare design\manage\smartptr.h
+	<iostream>
+
+1525451890 source:c:\users\user-a1\desktop\softeare design\manage\smartptr.cpp
+	"smartptr.h"
+
+1526843187 source:c:\users\user-a1\desktop\softeare design\manage\student.cpp
+	"student.h"
+
+1525625121 source:c:\users\user-a1\desktop\softeare design\manage\studentcycle.cpp
+	<string>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<list>
+	<algorithm>
+	<fstream>
+	"studentcycle.h"
+	"smartptr.h"
+	"student.h"
+	"course.h"
+	"department.h"
+	"college.h"
+
