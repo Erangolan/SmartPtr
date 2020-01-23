@@ -1,7 +1,7 @@
 #ifndef STUDENT_H
 #define STUDENT_H
-//Eran Golan 312492903
-//Liran Michaelov 204238174#ifndef STUDENT_H
+//Eran Golan 
+#ifndef STUDENT_H
 #define STUDENT_H
 #include <iostream>
 using namespace std;
