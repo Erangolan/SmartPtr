@@ -1,5 +1,5 @@
-//Eran Golan 312492903
-//Liran Michaelov 204238174
+//Eran Golan 
+
 #ifndef SMARTPTR_H
 #define SMARTPTR_H
 #include <iostream>
